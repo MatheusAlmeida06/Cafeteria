@@ -88,13 +88,13 @@ To run the site locally, follow the steps below:
 Clone the repository using Git command:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cafeteria-site.git
+git clone https://github.com/MatheusAlmeida06/Cafeteria.git
 ```
 
 ### 2. Navigate to the Project Directory 📂
 
 ```bash
-cd cafeteria-site
+cd Cafeteria
 ```
 
 ### 3. Open Files in a Browser 🌐
